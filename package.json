@@ -1,0 +1,27 @@
+{
+  "title": "InputWithIcon Material Demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "inputwithicon-material-demo-forked",
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.0/docs/src/pages/components/text-fields/InputWithIcon.tsx",
+  "dependencies": {
+    "typescript": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@mui/material": "latest",
+    "@mui/icons-material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  },
+  "version": "0.0.0"
+}
